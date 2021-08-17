@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Search Maps</string>
-    <string name="mapbox_access_token">pk.eyJ1IjoiYWlzaHNhcnYiLCJhIjoiY2tzZjh5MTBhMTd6eDJvb2QxeHcxajFkNyJ9.t-X4Op-PCRFA0HnMsEtG8A</string>
+    <string name="mapbox_access_token">MAPBOX_ACCESS_TOKEN</string>
 </resources>
